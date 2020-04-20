@@ -1,0 +1,12 @@
+{
+  "responseCode": "200",
+  "responseMessage": "Recode Fetch Successfully!",
+  "responseTime": "10:22",
+  "member_info": [
+    {
+      "name": "test",
+      "email": "test@test.com",
+      "token": "testtesttest"
+    }
+  ]
+}
