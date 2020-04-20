@@ -1,12 +1,11 @@
 {
-  "responseCode": "200",
-  "responseMessage": "Recode Fetch Successfully!",
-  "responseTime": "10:22",
-  "member_info": [
+  "posts": [
     {
-      "name": "test",
-      "email": "test@test.com",
-      "token": "testtesttest"
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
